@@ -1,0 +1,6 @@
+.DS_Store
+.sass-cache/
+bower_components/
+node_modules/
+.idea/
+.tm_properties
