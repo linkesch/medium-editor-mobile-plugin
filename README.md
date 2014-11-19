@@ -11,12 +11,15 @@ The plugin was tested in Chrome 39 in Android and PhantomJS.
 ## Download
 
 Bower (recommended): ```bower install medium-editor-mobile-plugin --save```
+
 Manual: [Download the latest release as ZIP](https://github.com/orthes/medium-editor-mobile-plugin/archive/master.zip)
 
 
 ## Usage
 
-```<script src="bower_components/medium-editor-mobile-plugin/dist/medium-editor-mobile-plugin.min.js"></script>```
+```
+<script src="bower_components/medium-editor-mobile-plugin/dist/medium-editor-mobile-plugin.min.js"></script>
+```
 
 That's it. No need for initialization, just make sure the script is placed after MediumEditor's script and before the editor is called for the first time.
 
