@@ -1,21 +1,23 @@
 {
-  "name": "medium-editor-mobile-plugin",
-  "version": "0.0.0",
-  "homepage": "https://github.com/orthes/medium-editor-mobile-plugin",
-  "authors": [
-    "Pavel Linkesch <pavel.linkesch@gmail.com>"
-  ],
-  "description": "jQuery mobile plugin for MediumEditor",
-  "license": "MIT",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "medium-editor": "~1.9"
-  }
+    "name": "medium-editor-mobile-plugin",
+    "version": "0.0.1",
+    "description": "Mobile support for MediumEditor",
+    "homepage": "https://github.com/orthes/medium-editor-mobile-plugin",
+    "authors": [
+        "Pavel Linkesch <pavel.linkesch@gmail.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "medium-editor": "~1.9"
+    },
+    "devDependencies": {
+        "qunit": "~1.15.0"
+    }
 }

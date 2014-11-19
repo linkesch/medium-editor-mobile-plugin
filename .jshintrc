@@ -2,7 +2,11 @@
     "predef": {
         "document": false,
         "window": false,
-        "MediumEditor": false
+        "MediumEditor": false,
+        "module": false,
+        "test": false,
+        "equal": false,
+        "ok": false
     },
 
     "jquery" : false,
