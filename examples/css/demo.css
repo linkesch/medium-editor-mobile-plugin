@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#container {
+    max-width: 960px;
+    margin: 20px;
+}
+
+.editable {
+    outline: none;
+    min-height: 38px;
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+h3 {
+    font-size: 32px;
+    line-height: 42px;
+}
+
+h4 {
+    font-size: 26px;
+    line-height: 32px;
+}
